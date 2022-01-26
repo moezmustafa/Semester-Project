@@ -11,7 +11,7 @@ using namespace std ;
 int main()
 {
 
-    system("color 0B") ;
+    system("color 0C") ;
     
     cout << " \n\n\n\n\n\n " ; 
     cout << "\t\t\t\t\t\tLOADING : \n\n" ; 

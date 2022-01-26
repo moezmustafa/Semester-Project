@@ -18,3 +18,13 @@
 3 engineering
 4 ITU
 5 pokemon@outdoor.com
+1 jamshed
+2 0988777
+3 science
+4 bahria
+5 jam@f.com
+1 abubakar
+2 123123123
+3 computerscience
+4 bahria
+5 abubakar@gmail.com

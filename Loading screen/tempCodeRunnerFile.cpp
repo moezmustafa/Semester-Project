@@ -21,10 +21,10 @@ void loading()
 	char x = 177;
 	cout << " \t\t\t";
 
-	for (int i = 0; i < 69; i++)
+	for (int i = 0; i < 39; i++)
 	{
-		cout << x << setw(0);
-		Sleep(10);
+		cout << x << setw(2);
+		Sleep(100);
 	}
 
 	cout << endl;
