@@ -12,11 +12,11 @@ Can chats  in-between two devices . Over the
 Internet .
 
 
+## Authors
+
+- [@moezmustafa](https://www.github.com/moezmustafa)
 
 
-
-
-## Badges
 
 
 ## Badges
@@ -30,9 +30,7 @@ Internet .
 [![Tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fmoezmustafa%2FWhatsApp-Clone-in-Cpp)]()
 
 
-## Authors
 
-- [@moezmustafa](https://www.github.com/moezmustafa)
 
 
 ## List of Functions :
