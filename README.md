@@ -18,11 +18,16 @@ Internet .
 
 ## Badges
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+## Badges
+
+[![MIT License](https://img.shields.io/github/issues/moezmustafa/WhatsApp-Clone-in-Cpp)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
+[![Forks](https://img.shields.io/github/forks/moezmustafa/WhatsApp-Clone-in-Cpp)]()
+[![Stars](https://img.shields.io/github/stars/moezmustafa/WhatsApp-Clone-in-Cpp)]()
+[![Tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fmoezmustafa%2FWhatsApp-Clone-in-Cpp)]()
 
 
 ## Authors
