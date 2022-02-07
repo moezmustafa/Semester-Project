@@ -97,29 +97,6 @@ A file   using a cool trick  , it takes the username variable\
  of that numeric sum .
  it also makes a database of registered users.
 
-## List of Functions :
-void load_animation(); \
-void greeting();\
-void loading(int , int);\
-void credits();\
-void main_menu();\
-void login_page();\
-void register_page();\
-void user_menu();\
-void list_of_users();\
-void send_message();\
-void add_friend();\
-void online_users();\
-void logout();\
-void list_of_users();\
-void user_friends() ;\
-void credit();\
-
-
-
-
-void system_color(int);
-
 
 ## Login Page
 The login takes in the username and password \
