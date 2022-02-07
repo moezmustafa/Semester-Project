@@ -24,11 +24,7 @@ char choice_friend ; //goes in the friend menu function
 
 
 
-struct credit {
-	string proj = "Fake Whatsapp";
-	string name;
-	string roll;
-}ab, mm, jb;
+
 //////Global Variables////
 //////Global Variables////
 
@@ -97,46 +93,16 @@ int main()
 //////Function Definitions//////
 void credits()
 {
-    jb.name = "jamshed bashir";
-	jb.roll = "01-134212-072";
 
-	mm.name = "Moeez Mustafa";
-	mm.roll = "01-134212-088";
-
-	ab.name = "Abu Bakr";
-	ab.roll = "01-134212-011";
-	
-	string AB1 , AB2, MM1 , MM2 ,JB1 ,JB2;
-	
-	AB1 = ab.name;
-	AB2 = ab.roll;
-	
-	MM1 = mm.name;
-	MM2 = mm.roll;
-
-	JB1 = jb.name;
-	JB2 = jb.roll;
 	
 	fstream myfile;
 	myfile.open("credit.txt",ios::out);
-	
-	myfile << ab.proj;
-	myfile << endl;
-		myfile << AB1;
-		myfile << endl;
-		myfile << AB2;
-		myfile << endl;
-		myfile << MM1;
-		myfile << endl;
 
-		myfile << MM2;
-		myfile << endl;
 
-		myfile << JB1;
-		myfile << endl;
-
-		myfile << JB2;
-		myfile.close();
+	myfile << " Author : " << "Moeez Mustafa" << endl;
+    myfile << " Date : " << "12/1/2022" << endl;
+    myfile << "Project Name : " << "Fake Whatsapp" << endl;
+    
 	
 
 	ifstream file("credit.txt", ios::in);
